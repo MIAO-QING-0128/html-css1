@@ -1,0 +1,141 @@
+body{
+    font-size: 14px;
+}
+.ba-img{
+    position: relative;
+    width: 1349px;
+    height: 1927px;
+    background: url("../imgs/nav-3.png") no-repeat;
+    background-size: 100% 100%;
+}
+.header{
+    width: 100%;
+    background-color: white;
+}
+.h-all{
+    width: 810px;
+    height: 76px;
+    margin: 0 auto;
+}
+.h-left{
+    float: left;
+    width: 258px;
+    height: 73px;
+}
+.h-left img{
+    width: 100%;
+    height: 100%;
+}
+.h-right{
+    float: right;
+    width: 189px;
+    height: 75px;
+    text-align: right;
+}
+.h-help{
+    margin-top: 25px;
+}
+.h-icon i{
+    border-right: 1px solid black;
+    margin-right: 17px;
+    margin-left: 15px;
+}
+.h-icon a{
+    color:black;
+}
+.content-title{
+    width: 100%;
+    height: 40px;
+    background-color: #1a249f;
+}
+.content-text{
+    width: 810px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+.content-text li {
+    display: inline-block;
+}
+.content-text li a{
+    color:white;
+}
+.content-text li img{
+    margin-right: 36px;
+    margin-left: 36px;
+}
+.content-con{
+    padding-top: 665px;
+}
+.content-img{
+    margin: 0 auto;
+    width: 810px;
+    height: 800px;
+    background: url("../imgs/con-1.png") no-repeat;
+    background-size: 100% 100%;
+}
+.content-img h2{
+    padding-top: 10px;
+    padding-left: 26px;
+    font-size: 22px;
+    color:#e36955;
+    font-family: AngsanaUPC;
+}
+ol{
+    padding-top: 20px;
+}
+ol li{
+    color:white;
+    height: 35px;
+    line-height: 35px;
+    padding-left: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.con-text{
+    width: 810px;
+    height: 218px;
+    background-color: #fdf75e;
+    margin: auto;
+}
+.con-list{
+    padding-top: 10px;
+    height: 160px;
+    width: 801px;
+    margin: 0 auto;
+}
+dl{
+    width: 267px;
+    float: left;
+    text-align: center;
+}
+dl dt{
+    background-color: #fbe554;
+}
+dl dd{
+    height: 25px;
+    line-height: 25px;
+    border-bottom: 1px dashed white;
+}
+.con-page{
+    width: 810px;
+    text-align: center;
+    color:#eb6953;
+}
+.bottom{
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    margin: 0 auto;
+}
+.bottom p{
+    height: 24px;
+}
+
+
+
+
